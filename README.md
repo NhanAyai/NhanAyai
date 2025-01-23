@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/47510460-6c62-4ff7-84c2-83fa0f933554)
 # Hi there 👋
 
 <div align="center">
@@ -67,11 +68,6 @@ I am a dedicated researcher specializing in Computer Vision and Natural Language
 ![](https://github-profile-trophy.vercel.app/?username=NhanAyai&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
-
----
-
-### 🎮 8-bit Pixel Animation
-![Image](https://github.com/user-attachments/assets/47510460-6c62-4ff7-84c2-83fa0f933554)
 
 ---
 
