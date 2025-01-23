@@ -18,7 +18,7 @@ I am a dedicated researcher specializing in Computer Vision and Natural Language
 ## 🌐 Socials:
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TrầnHữuNhân)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tr%E1%BA%A7n-h%E1%BB%AFu-nh%C3%A2n-8b834b281/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NhanAyai)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NhanAyai.NhanAyai)](https://github.com/NhanAyai)
 
