@@ -57,20 +57,15 @@ I am a dedicated researcher specializing in Computer Vision and Natural Language
 # 📊 GitHub Stats:
 <div align="center">
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-  
-  <div style="flex: 1; margin-right: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=NhanAyai&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
-  </div>
-  
-  <div style="flex: 1; margin-left: 5px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NhanAyai&theme=dark&hide_border=false">
-  </div>
-  
+<!-- Top Row: Two Stats Side-by-Side -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=NhanAyai&theme=dark&hide_border=false&show_icons=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NhanAyai&theme=dark&hide_border=false">
 </div>
 
-<div style="width: 50%; margin: 0 auto;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhanAyai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+<!-- Bottom Row: Centered Language Stats -->
+<div style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhanAyai&theme=dark&hide_border=false&layout=compact">
 </div>
 
 </div>
