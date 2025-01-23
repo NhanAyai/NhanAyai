@@ -56,13 +56,21 @@ I am a dedicated researcher specializing in Computer Vision and Natural Language
 
 # 📊 GitHub Stats:
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=NhanAyai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NhanAyai&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NhanAyai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <div style="flex: 1; margin-right: 5px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=NhanAyai&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
+  </div>
+  <div style="flex: 1; margin-left: 5px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NhanAyai&theme=dark&hide_border=false">
+  </div>
 </div>
 
+<div style="width: 50%; margin: 0 auto;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhanAyai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</div>
+
+</div>
 ---
 
 ## 🏆 GitHub Trophies
