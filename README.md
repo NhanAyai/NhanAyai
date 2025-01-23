@@ -88,5 +88,3 @@ I am a dedicated researcher specializing in Computer Vision and Natural Language
 [![](https://visitcount.itsvg.in/api?id=NhanAyai&icon=0&color=3)](https://visitcount.itsvg.in)
 
 </div>
-
-[![Snake Animation](https://raw.githubusercontent.com/NhanAyai/NhanAyai/output/github-contribution-grid-snake.svg)](https://github.com/NhanAyai)
