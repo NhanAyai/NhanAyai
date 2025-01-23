@@ -44,7 +44,7 @@ I'm a passionate developer with a love for building innovative solutions and con
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Stable Diffusion With Flask](https://github.com/NhanAyai/Stable-Diffusion-With-Flask.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 </div>
 ---
