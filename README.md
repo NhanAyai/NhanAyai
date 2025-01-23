@@ -44,14 +44,7 @@ I'm a passionate developer with a love for building innovative solutions and con
 
 <div align="center">
 
-| **Project** | **Description** | **Tech Stack** | **Stars** |
-|-------------|-----------------|----------------|-----------|
-| [QuickDraw](https://github.com/NhanAyai/QuickDraw) | Implementation of Quickdraw - an online game developed by Google | Python | ![GitHub stars](https://img.shields.io/github/stars/NhanAyai/QuickDraw?style=flat-square) |
-| [Super-mario-bros-A3C-pytorch](https://github.com/NhanAyai/Super-mario-bros-A3C-pytorch) | Asynchronous Advantage Actor-Critic (A3C) algorithm for Super Mario Bros | Python | ![GitHub stars](https://img.shields.io/github/stars/NhanAyai/Super-mario-bros-A3C-pytorch?style=flat-square) |
-| [Flappy-bird-deep-Q-learning-pytorch](https://github.com/NhanAyai/Flappy-bird-deep-Q-learning-pytorch) | Deep Q-learning for playing flappy bird game | Python | ![GitHub stars](https://img.shields.io/github/stars/NhanAyai/Flappy-bird-deep-Q-learning-pytorch?style=flat-square) |
-| [ASCII-generator](https://github.com/NhanAyai/ASCII-generator) | ASCII generator (image to text, image to image, video to video) | Python | ![GitHub stars](https://img.shields.io/github/stars/NhanAyai/ASCII-generator?style=flat-square) |
-| [Super-mario-bros-PPO-pytorch](https://github.com/NhanAyai/Super-mario-bros-PPO-pytorch) | Proximal Policy Optimization (PPO) algorithm for Super Mario Bros | Python | ![GitHub stars](https://img.shields.io/github/stars/NhanAyai/Super-mario-bros-PPO-pytorch?style=flat-square) |
-| [Tetris-deep-Q-learning-pytorch](https://github.com/NhanAyai/Tetris-deep-Q-learning-pytorch) | Deep Q-learning for playing tetris game | Python | ![GitHub stars](https://img.shields.io/github/stars/NhanAyai/Tetris-deep-Q-learning-pytorch?style=flat-square) |
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 </div>
 ---
