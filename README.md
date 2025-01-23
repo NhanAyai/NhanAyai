@@ -1,3 +1,11 @@
+# Hi there 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Welcome+to+my+GitHub+Profile!;Passionate+Developer;Always+Learning+New+Tech;Open+Source+Enthusiast" alt="Typing SVG" />
+</div>
+
+---
+
 # 💫 About Me:
 I am a dedicated researcher specializing in Computer Vision and Natural Language Processing (NLP). My work focuses on exploring cutting-edge technologies to solve complex problems in AI and machine learning. Currently, I am deeply involved in research projects that bridge the gap between visual and textual data in LLMs Chatbot, aiming to create more intelligent and intuitive systems.
 
