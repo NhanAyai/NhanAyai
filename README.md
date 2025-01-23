@@ -89,5 +89,4 @@ I am a dedicated researcher specializing in Computer Vision and Natural Language
 
 </div>
 
-<img src="https://raw.githubusercontent.com/nhanayai/nhanayai/output/snake.svg" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
