@@ -1,92 +1,24 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm NhanAyai</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Welcome+to+my+GitHub+Profile!;Passionate+Developer;Always+Learning+New+Tech;Open+Source+Enthusiast" alt="Typing SVG" />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nhanayai&label=Profile%20views&color=0e75b6&style=flat" alt="nhanayai" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhanayai" alt="nhanayai" /></a> </p>
 
-## 🚀 About Me
+- 📫 How to reach me **hntnhan1111@gmail.com**
 
-I'm a passionate developer with a love for building innovative solutions and contributing to open-source projects. My journey in tech is driven by curiosity and a constant desire to learn and grow.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/trần hữu nhân" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trần hữu nhân" height="30" width="40" /></a>
+<a href="https://kaggle.com/nhanayai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nhanayai" height="30" width="40" /></a>
+<a href="https://fb.com/trần hữu nhân" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trần hữu nhân" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## 🛠️ Technologies & Tools
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhanayai&show_icons=true&locale=en&layout=compact" alt="nhanayai" /></p>
 
-<div align="center">
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhanayai&show_icons=true&locale=en" alt="nhanayai" /></p>
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![NhanAyai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NhanAyai&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NhanAyai&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=NhanAyai&theme=radical)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Stable Diffusion With Flask](https://your-image-url.com/image.png)](https://github.com/NhanAyai/Stable-Diffusion-With-Flask)
-
-</div>
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white)](https://your-portfolio.com)
-
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Build a Scalable Web Application](https://your-blog.com/post1)
-- [Getting Started with Docker](https://your-blog.com/post2)
-- [AI in 2023: Trends and Predictions](https://your-blog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## ⚡ Fun Facts
-
-- 🔭 I’m currently working on improving my DevOps skills.
-- 🌱 I’m currently learning Kubernetes and cloud-native technologies.
-- 👯 I’m looking to collaborate on open-source projects.
-- 🤔 I’m looking for help with advanced machine learning techniques.
-- 💬 Ask me about web development and AI.
-- 📫 How to reach me: [Email](mailto:your.email@example.com) or [LinkedIn](https://www.linkedin.com/in/your-profile/).
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I love hiking and photography!
-
----
-
-<div align="center">
-  
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=NhanAyai.NhanAyai)
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhanayai&" alt="nhanayai" /></p>
