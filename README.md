@@ -72,10 +72,7 @@ I am a dedicated researcher specializing in Computer Vision and Natural Language
 
 ### 🎮 8-bit Pixel Animation
 <div align="center">
-  
-<!-- Add your pixel art GIF URL below -->
-<img src="https://imgur.com/a/N4zvigM" width="200" height="200" alt="pixel-art-animation">
-
+  <img src="https://raw.githubusercontent.com/user-attachments/assets/main/47510460-6c62-4ff7-84c2-83fa0f933554" width="300" alt="pixel-art">
 </div>
 
 ---
