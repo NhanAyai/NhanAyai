@@ -89,4 +89,4 @@ I am a dedicated researcher specializing in Computer Vision and Natural Language
 
 </div>
 
-[![Snake Animation](https://github.com/NhanAyai/NhanAyai/blob/output/github-contribution-grid-snake.svg)](https://github.com/NhanAyai)
+[![Snake Animation](https://raw.githubusercontent.com/NhanAyai/NhanAyai/output/github-contribution-grid-snake.svg)](https://github.com/NhanAyai)
