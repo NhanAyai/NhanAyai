@@ -70,10 +70,11 @@ I am a dedicated researcher specializing in Computer Vision and Natural Language
 
 ---
 
-### ✍️ Random Dev Quote
+### 🎮 8-bit Pixel Animation
 <div align="center">
   
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!-- Add your pixel art GIF URL below -->
+<img src="https://imgur.com/QaieZuM" width="200" height="200" alt="pixel-art-animation">
 
 </div>
 
