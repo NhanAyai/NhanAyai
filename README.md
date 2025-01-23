@@ -17,9 +17,6 @@ I'm a passionate developer with a love for building innovative solutions and con
 <div align="center">
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -47,14 +44,16 @@ I'm a passionate developer with a love for building innovative solutions and con
 
 <div align="center">
 
-| **Project** | **Description** | **Tech Stack** |
-|-------------|-----------------|----------------|
-| [Project 1](https://github.com/NhanAyai/project1) | AI-Powered Image Generator | Python, Flask, HuggingFace |
-| [Project 2](https://github.com/NhanAyai/project2) | Real-Time Chat Application | React, Node.js, Socket.IO |
-| [Project 3](https://github.com/NhanAyai/project3) | E-Commerce Platform | Django, PostgreSQL, Stripe API |
+| **Project** | **Description** | **Tech Stack** | **Stars** |
+|-------------|-----------------|----------------|-----------|
+| [QuickDraw](https://github.com/NhanAyai/QuickDraw) | Implementation of Quickdraw - an online game developed by Google | Python | ![GitHub stars](https://img.shields.io/github/stars/NhanAyai/QuickDraw?style=flat-square) |
+| [Super-mario-bros-A3C-pytorch](https://github.com/NhanAyai/Super-mario-bros-A3C-pytorch) | Asynchronous Advantage Actor-Critic (A3C) algorithm for Super Mario Bros | Python | ![GitHub stars](https://img.shields.io/github/stars/NhanAyai/Super-mario-bros-A3C-pytorch?style=flat-square) |
+| [Flappy-bird-deep-Q-learning-pytorch](https://github.com/NhanAyai/Flappy-bird-deep-Q-learning-pytorch) | Deep Q-learning for playing flappy bird game | Python | ![GitHub stars](https://img.shields.io/github/stars/NhanAyai/Flappy-bird-deep-Q-learning-pytorch?style=flat-square) |
+| [ASCII-generator](https://github.com/NhanAyai/ASCII-generator) | ASCII generator (image to text, image to image, video to video) | Python | ![GitHub stars](https://img.shields.io/github/stars/NhanAyai/ASCII-generator?style=flat-square) |
+| [Super-mario-bros-PPO-pytorch](https://github.com/NhanAyai/Super-mario-bros-PPO-pytorch) | Proximal Policy Optimization (PPO) algorithm for Super Mario Bros | Python | ![GitHub stars](https://img.shields.io/github/stars/NhanAyai/Super-mario-bros-PPO-pytorch?style=flat-square) |
+| [Tetris-deep-Q-learning-pytorch](https://github.com/NhanAyai/Tetris-deep-Q-learning-pytorch) | Deep Q-learning for playing tetris game | Python | ![GitHub stars](https://img.shields.io/github/stars/NhanAyai/Tetris-deep-Q-learning-pytorch?style=flat-square) |
 
 </div>
-
 ---
 
 ## 🤝 Let's Connect
