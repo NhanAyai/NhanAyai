@@ -74,7 +74,7 @@ I am a dedicated researcher specializing in Computer Vision and Natural Language
 <div align="center">
   
 <!-- Add your pixel art GIF URL below -->
-<img src="https://imgur.com/QaieZuM" width="200" height="200" alt="pixel-art-animation">
+<img src="https://imgur.com/a/N4zvigM" width="200" height="200" alt="pixel-art-animation">
 
 </div>
 
