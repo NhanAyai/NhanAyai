@@ -69,6 +69,7 @@ I am a dedicated researcher specializing in Computer Vision and Natural Language
 </div>
 
 </div>
+
 ---
 
 ## 🏆 GitHub Trophies
