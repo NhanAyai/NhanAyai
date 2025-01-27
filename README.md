@@ -79,34 +79,42 @@ I am a dedicated researcher specializing in Computer Vision and Natural Language
 ---
 
 ### 🔝 Top Contributed Repo
-<div align="center">
-  
-<a href="https://github.com/NhanAyai/Cache-Augmentation-Generation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanAyai&repo=Cache-Augmentation-Generation&theme=radical" />
-</a>
-<a href="https://github.com/NhanAyai/Stable-Diffusion-With-Flask">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanAyai&repo=Stable-Diffusion-With-Flask&theme=radical" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center">
+
+<!-- Row 1 -->
+<a href="https://github.com/NhanAyai/Cache-Augmentation-Generation" style="flex: 1 1 45%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanAyai&repo=Cache-Augmentation-Generation&theme=merko" />
 </a>
 
-<a href="https://github.com/NhanAyai/Generative-Adversarial-Networks-GANs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanAyai&repo=Generative-Adversarial-Networks-GANs&theme=radical" />
-</a>
-<a href="https://github.com/NhanAyai/Generative-AI-with-Large-Language-Models">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanAyai&repo=Generative-AI-with-Large-Language-Models&theme=radical" />
+<a href="https://github.com/NhanAyai/Stable-Diffusion-With-Flask" style="flex: 1 1 45%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanAyai&repo=Stable-Diffusion-With-Flask&theme=gruvbox" />
 </a>
 
-<a href="https://github.com/NhanAyai/Whisper-PhoWhisper-Speech-To-Text">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanAyai&repo=Whisper-PhoWhisper-Speech-To-Text&theme=radical" />
-</a>
-<a href="https://github.com/NhanAyai/Project-YOLO-Real-Time-Traffic-Counting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanAyai&repo=Project-YOLO-Real-Time-Traffic-Counting&theme=radical" />
+<!-- Row 2 -->
+<a href="https://github.com/NhanAyai/Generative-Adversarial-Networks-GANs" style="flex: 1 1 45%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanAyai&repo=Generative-Adversarial-Networks-GANs&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/NhanAyai/LangChain-QA-Prompt-Query-From-Text-and-PDF-Documents">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanAyai&repo=LangChain-QA-Prompt-Query-From-Text-and-PDF-Documents&theme=radical" />
+<a href="https://github.com/NhanAyai/Generative-AI-with-Large-Language-Models" style="flex: 1 1 45%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanAyai&repo=Generative-AI-with-Large-Language-Models&theme=aura" />
 </a>
-<a href="https://github.com/NhanAyai/Chatbox-IBM-Integrate-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanAyai&repo=Chatbox-IBM-Integrate-Website&theme=radical" />
+
+<!-- Row 3 -->
+<a href="https://github.com/NhanAyai/Whisper-PhoWhisper-Speech-To-Text" style="flex: 1 1 45%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanAyai&repo=Whisper-PhoWhisper-Speech-To-Text&theme=dracula" />
+</a>
+
+<a href="https://github.com/NhanAyai/Project-YOLO-Real-Time-Traffic-Counting" style="flex: 1 1 45%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanAyai&repo=Project-YOLO-Real-Time-Traffic-Counting&theme=nord" />
+</a>
+
+<!-- Row 4 -->
+<a href="https://github.com/NhanAyai/LangChain-QA-Prompt-Query-From-Text-and-PDF-Documents" style="flex: 1 1 45%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanAyai&repo=LangChain-QA-Prompt-Query-From-Text-and-PDF-Documents&theme=prism" />
+</a>
+
+<a href="https://github.com/NhanAyai/Chatbox-IBM-Integrate-Website" style="flex: 1 1 45%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanAyai&repo=Chatbox-IBM-Integrate-Website&theme=synthwave" />
 </a>
 
 </div>
