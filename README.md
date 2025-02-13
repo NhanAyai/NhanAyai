@@ -1,7 +1,7 @@
 <div>
   <img src="https://github.com/user-attachments/assets/47510460-6c62-4ff7-84c2-83fa0f933554" width="300" alt="pixel-art">
 </div>
-  
+
 # Hi there 👋
 
 <div align="center">
@@ -35,7 +35,12 @@ I am a dedicated researcher specializing in Computer Vision and Natural Language
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%2361a2be.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23f05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
@@ -44,13 +49,11 @@ I am a dedicated researcher specializing in Computer Vision and Natural Language
 # 📊 GitHub Stats:
 <div align="center">
 
-<!-- Top Row: Two Stats Side-by-Side -->
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=NhanAyai&theme=dark&hide_border=false&show_icons=true">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NhanAyai&theme=dark&hide_border=false">
 </div>
 
-<!-- Bottom Row: Centered Language Stats -->
 <div style="margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhanAyai&theme=dark&hide_border=false&layout=compact">
 </div>
@@ -70,42 +73,6 @@ I am a dedicated researcher specializing in Computer Vision and Natural Language
 
 ### 🔝 Top Contributed Repo
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center">
-
-<!-- Row 1 -->
-<a href="https://github.com/NhanAyai/Cache-Augmentation-Generation" style="flex: 1 1 45%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanAyai&repo=Cache-Augmentation-Generation&theme=merko" />
-</a>
-
-<a href="https://github.com/NhanAyai/Stable-Diffusion-With-Flask" style="flex: 1 1 45%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanAyai&repo=Stable-Diffusion-With-Flask&theme=gruvbox" />
-</a>
-
-<!-- Row 2 -->
-<a href="https://github.com/NhanAyai/Generative-Adversarial-Networks-GANs" style="flex: 1 1 45%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanAyai&repo=Generative-Adversarial-Networks-GANs&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/NhanAyai/Generative-AI-with-Large-Language-Models" style="flex: 1 1 45%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanAyai&repo=Generative-AI-with-Large-Language-Models&theme=aura" />
-</a>
-
-<!-- Row 3 -->
-<a href="https://github.com/NhanAyai/Whisper-PhoWhisper-Speech-To-Text" style="flex: 1 1 45%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanAyai&repo=Whisper-PhoWhisper-Speech-To-Text&theme=dracula" />
-</a>
-
-<a href="https://github.com/NhanAyai/Project-YOLO-Real-Time-Traffic-Counting" style="flex: 1 1 45%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanAyai&repo=Project-YOLO-Real-Time-Traffic-Counting&theme=nord" />
-</a>
-
-<!-- Row 4 -->
-<a href="https://github.com/NhanAyai/LangChain-QA-Prompt-Query-From-Text-and-PDF-Documents" style="flex: 1 1 45%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanAyai&repo=LangChain-QA-Prompt-Query-From-Text-and-PDF-Documents&theme=prism" />
-</a>
-
-<a href="https://github.com/NhanAyai/Chatbox-IBM-Integrate-Website" style="flex: 1 1 45%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NhanAyai&repo=Chatbox-IBM-Integrate-Website&theme=synthwave" />
-</a>
 
 </div>
 
