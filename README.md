@@ -30,17 +30,22 @@ I am a dedicated researcher specializing in Computer Vision and Natural Language
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Skills:
 <div align="center">
   
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%2361a2be.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23f05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-informational?style=for-the-badge&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-informational?style=for-the-badge&logo=spacy&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-informational?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-informational?style=for-the-badge&logo=huggingface&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-informational?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-informational?style=for-the-badge&logo=streamlit&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-informational?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
 
